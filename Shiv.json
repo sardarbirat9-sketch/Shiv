@@ -23,4 +23,10 @@
         "expirydate": "03-03-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "c816940b437935c5",
+        "key": "Shivaji2",
+        "expirydate": "28-02-2026",
+        "Allowoffline": true
+    },
 ]
