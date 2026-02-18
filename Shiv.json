@@ -31,8 +31,14 @@
     },
     {
         "device_id": "6de655f69a2f53cf",
-        "key": "Shivaji3,
+        "key": "Shivaji3",
         "expirydate": "23-02-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "028e182d5aa74815",
+        "key": "Shivaji4",
+        "expirydate": "08-03-2026",
         "Allowoffline": true
     },
 ]
