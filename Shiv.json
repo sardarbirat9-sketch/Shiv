@@ -30,6 +30,12 @@
         "Allowoffline": true
     },
     {
+        "device_id": "dac0a220ab7b0b92",
+        "key": "key12345",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    },
+    {
         "device_id": "6de655f69a2f53cf",
         "key": "Shivaji3",
         "expirydate": "23-02-2026",
@@ -92,6 +98,12 @@
     {
         "device_id": "55beeb6649ee2b43",
         "key": "key5",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "dac0a220ab7b0b92",
+        "key": "Shivaji11",
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
