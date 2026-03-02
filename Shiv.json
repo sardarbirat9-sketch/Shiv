@@ -233,4 +233,16 @@
         "expirydate": "03-03-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "668a3a38947fdc94",
+        "key": "Demo2",
+        "expirydate": "03-03-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "a3cafe4314690f61",
+        "key": "Shivaji30",
+        "expirydate": "03-12-2026",
+        "Allowoffline": true
+    },
 ]
