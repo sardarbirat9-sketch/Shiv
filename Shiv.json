@@ -269,4 +269,10 @@
         "expirydate": "30-04-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "f6c8f04aa2a44c16",
+        "key": "Demo11",
+        "expirydate": "04-03-2026",
+        "Allowoffline": true
+    },
 ]
