@@ -257,4 +257,10 @@
         "expirydate": "04-03-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "fa2544877f8cb2b7",
+        "key": "Shivaji32",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
