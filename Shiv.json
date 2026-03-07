@@ -335,4 +335,10 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "052c243775b3947c",
+        "key": "Shiv0101",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
