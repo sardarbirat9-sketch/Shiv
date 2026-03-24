@@ -233,4 +233,10 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "dac0a220ab7b0b92",
+        "key": "k06",
+        "expirydate": "01-04-2026",
+        "Allowoffline": true
+    },
 ]
