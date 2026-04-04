@@ -12,22 +12,9 @@
         "Allowoffline": false
     }
     {
-        "device_id": "4d7dda4e73564dab",
-        "key": "key1122",
-        "expirydate": "31-12-2026",
-        "Allowoffline": true
-    }
-    {
-        "device_id": "4d7dda4e73564dab",
+        "device_id": "device123",
         "key": "key12345",
-        "expirydate": "31-12-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "50416ac7b2372e8d",
-        "key": "key1234",
-        "expirydate": "31-12-2026",
+        "expirydate": "31-12-2025",
         "Allowoffline": true
     },
 ]
-    
