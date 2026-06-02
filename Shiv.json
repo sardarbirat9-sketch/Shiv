@@ -485,4 +485,10 @@
         "expirydate": "30-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "e6448de65fc48f33",
+        "key": "key12345",
+        "expirydate": "04-06-2026",
+        "Allowoffline": true
+    },
  ]
