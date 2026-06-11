@@ -654,7 +654,7 @@
         "Allowoffline": true
     },
     {
-        "device_id": "48249ad02b433215",
+        "device_id": "",
         "key": "key12345",
         "expirydate": "30-06-2026",
         "Allowoffline": true
@@ -666,7 +666,7 @@
         "Allowoffline": true
     },
     {
-        "device_id": "7e3c9ef3fa85c235",
+        "device_id": "",
         "key": "key12345",
         "expirydate": "30-06-2026",
         "Allowoffline": true
