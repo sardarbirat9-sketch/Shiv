@@ -666,9 +666,15 @@
         "Allowoffline": true
     },
     {
-        "device_id": "",
+        "device_id": "e785880f1f3ad850",
         "key": "key12345",
         "expirydate": "30-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "device123",
+        "key": "key12345",
+        "expirydate": "31-12-2025",
         "Allowoffline": true
     },
  ]
