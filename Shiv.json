@@ -161,4 +161,10 @@
         "expirydate": "31-07-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "746d9d50ba686365",
+        "key": "key12345",
+        "expirydate": "24-07-2026",
+        "Allowoffline": true
+    },
  ]
