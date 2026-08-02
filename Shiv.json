@@ -96,9 +96,9 @@
         "Allowoffline": true
     },
     {
-        "device_id": "d7c4b28e03a3cd76",
+        "device_id": "d7c4b28e03a3cb76",
         "key": "key12345",
-        "expirydate": "15-08-2027",
+        "expirydate": "15-08-2026",
         "Allowoffline": true
     },
     {
@@ -282,9 +282,9 @@
         "Allowoffline": true
     },
     {
-        "device_id": "e29cbaf300bc1b6f",
+        "device_id": "750f4fa1f3772219",
         "key": "key12345",
-        "expirydate": "22-06-2026",
+        "expirydate": "29-08-2026",
         "Allowoffline": true
     },
     {
